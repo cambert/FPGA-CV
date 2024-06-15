@@ -1,2 +1,2 @@
 # FPGA-CV
-FPGA Computer Vision
+FPGA-CV - The framework for FPGA Computer Vision development
