@@ -10,4 +10,5 @@ This project supports FPGA enthusiasts, students, researchers, and engineers wor
 The motivation is to become the go-to framework for FPGA Computer Vision applications. 
 
 It is based on permissive license allowing nearly unrestricted freedom as long as the original license and copyright notice are included. I do this is my spare time to get more people involved in FPGA development. I would appreciate if you could spread the word, share with others and reference it in your projects, during workshops and papers:
+
 _cambert. (2024, June 15). *FPGA-CV*. GitHub. https://github.com/cambert/FPGA-CV_
